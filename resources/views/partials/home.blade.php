@@ -1,15 +1,15 @@
 	@extends('layout.app')
     @section('content')
-    
-   
+
+
     <!-- HERO-12
-			============================================= -->	
+			============================================= -->
 			<section id="hero-12" class="bg-scroll hero-section division">
-				<div class="container">	
-						
+				<div class="container">
+
 
 					<!-- HERO TEXT -->
-					<div class="row">		
+					<div class="row">
 						<div class="col-lg-10 offset-lg-1">
 							<div class="hero-12-txt white-color wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0.4s">
 
@@ -18,7 +18,7 @@
 
 								<!-- Text -->
 								<p class="p-xl">Feugiat primis ligula risus auctor augue egestas and mauris viverra tortor in iaculis
-								   magna undo ipsum mauris in placerat feugiat ligula risus	
+								   magna undo ipsum mauris in placerat feugiat ligula risus
 								</p>
 
 							</div>
@@ -26,14 +26,14 @@
 					</div>	<!-- HERO TEXT -->
 
 
-					<!-- HERO IMAGE -->	
-					<div class="row">	
-						<div class="col-lg-10 offset-lg-1 text-center">	
-							<div class="video-preview wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0.8s">					
-								<a class="video-popup1" href="https://www.youtube.com/embed/SZEflIVnhH8">  <!-- Change the link HERE!!! -->	
+					<!-- HERO IMAGE -->
+					<div class="row">
+						<div class="col-lg-10 offset-lg-1 text-center">
+							<div class="video-preview wow fadeInUp" data-wow-duration="2.5s" data-wow-delay="0.8s">
+								<a class="video-popup1" href="https://www.youtube.com/embed/SZEflIVnhH8">  <!-- Change the link HERE!!! -->
 
-									<!-- Play Icon --> 							
-									<div class="video-btn bg-orangered">	
+									<!-- Play Icon -->
+									<div class="video-btn bg-orangered">
 										<div class="video-block-wrapper"><i class="fas fa-play"></i></div>
 									</div>
 
@@ -41,15 +41,15 @@
 									<img class="img-fluid" src="images/hero-12-img.png" alt="video-preview">
 
 								</a>
-					 		</div> 
-						</div>																	
-					</div>	<!-- HERO IMAGE --> 
+					 		</div>
+						</div>
+					</div>	<!-- HERO IMAGE -->
 
-				</div>	<!-- End container -->	
+				</div>	<!-- End container -->
 
 
-				<!-- SECTION OVERLAY -->	
-				<div class="bg-fixed white-overlay-bottom"></div>	
+				<!-- SECTION OVERLAY -->
+				<div class="bg-fixed white-overlay-bottom"></div>
 
 
 			</section>	<!-- END HERO-12 -->
@@ -71,9 +71,9 @@
 			 				<!-- SERVICE BOX #1 -->
 							<div class="col-sm-6 col-lg-4">
 								<div class="sbox-3 wow fadeInUp" data-wow-delay="0.4s">
-									
+
 									<!-- Icon -->
-									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-browser-8"></span></div> 
+									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-browser-8"></span></div>
 
 									<!-- Text -->
 									<div class="sbox-3-txt">
@@ -82,17 +82,17 @@
 
 										</p>
 									</div>
-																																						
-								</div>							
-							</div>	
+
+								</div>
+							</div>
 
 
 				 			<!-- SERVICE BOX #2 -->
 							<div class="col-sm-6 col-lg-4">
 								<div class="sbox-3 wow fadeInUp" data-wow-delay="0.6s">
-									
+
 									<!-- Icon -->
-									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-key-2"></span></div> 
+									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-key-2"></span></div>
 
 									<!-- Text -->
 									<div class="sbox-3-txt">
@@ -101,17 +101,17 @@
 
 										</p>
 									</div>
-										
-								</div>							
+
+								</div>
 							</div>
-								
-								
+
+
 							<!-- SERVICE BOX #3 -->
 							<div class="col-sm-6 col-lg-4">
 								<div class="sbox-3 wow fadeInUp" data-wow-delay="0.8s">
-									
+
 									<!-- Icon -->
-									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-chart"></span></div> 
+									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-chart"></span></div>
 
 									<!-- Text -->
 									<div class="sbox-3-txt">
@@ -121,17 +121,17 @@
 
 										</p>
 									</div>
-																		
-								</div>							
+
+								</div>
 							</div>
-									
-									
+
+
 							<!-- SERVICE BOX #4 -->
 							<div class="col-sm-6 col-lg-4">
 								<div class="sbox-3 wow fadeInUp" data-wow-delay="1s">
-									
+
 									<!-- Icon -->
-									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-pyramid"></span></div> 
+									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-pyramid"></span></div>
 
 									<!-- Text -->
 									<div class="sbox-3-txt">
@@ -141,17 +141,17 @@
 
 										</p>
 									</div>
-								
-								</div>							
-							</div>	
+
+								</div>
+							</div>
 
 
 							<!-- SERVICE BOX #5 -->
 							<div class="col-sm-6 col-lg-4">
 								<div class="sbox-3 wow fadeInUp" data-wow-delay="1.2s">
-									
+
 									<!-- Icon -->
-									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-bar-chart"></span></div> 
+									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-bar-chart"></span></div>
 
 									<!-- Text -->
 									<div class="sbox-3-txt">
@@ -161,17 +161,17 @@
 
 										</p>
 									</div>
-		
-								</div>							
+
+								</div>
 							</div>
 
 
 							<!-- SERVICE BOX #6 -->
 							<div class="col-sm-6 col-lg-4">
 								<div class="sbox-3 wow fadeInUp" data-wow-delay="1.4s">
-									
+
 									<!-- Icon -->
-									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-padlock"></span></div> 
+									<div class="sbox-3-ico ico-60 steelgrey-color"><span class="flaticon-padlock"></span></div>
 
 									<!-- Text -->
 									<div class="sbox-3-txt">
@@ -181,16 +181,16 @@
 
 										</p>
 									</div>
-																																					
-								</div>							
-							</div>	
+
+								</div>
+							</div>
 
 
 			 			</div>	 <!-- End row -->
-			 		</div>	 <!-- END SERVICES-3 WRAPPER -->	
+			 		</div>	 <!-- END SERVICES-3 WRAPPER -->
 
 
-			 	</div>	   <!-- End container -->		
+			 	</div>	   <!-- End container -->
 			</section>	<!-- END SERVICES-3 -->
 
 
@@ -203,15 +203,15 @@
 					<div class="row d-flex align-items-center m-row">
 
 
-						<!-- TEXT BLOCK -->	
+						<!-- TEXT BLOCK -->
 						<div class="col-md-7 col-lg-6 m-bottom">
 							<div class="txt-block left-column pc-35 mb-40 wow fadeInRight" data-wow-delay="0.4s">
 
-								<!-- Title -->	
+								<!-- Title -->
 								<h3 class="h3-sm">How to grow your business?
 								</h3>
 
-								<!-- Text List -->	
+								<!-- Text List -->
 								<ul class="txt-list grey-color">
 
 									<li class="list-item">
@@ -235,7 +235,7 @@
 										</p>
 									</li>
 
-								</ul>	<!-- End Text List -->	
+								</ul>	<!-- End Text List -->
 
 								<!-- Tools List -->
 								<div class="tools-list mt-30">
@@ -252,7 +252,7 @@
 								</div>
 
 							</div>
-						</div>	<!-- END TEXT BLOCK -->	
+						</div>	<!-- END TEXT BLOCK -->
 
 
 						<!-- IMAGE BLOCK -->
@@ -263,9 +263,9 @@
 						</div>
 
 
-					</div>	  <!-- End row -->	
+					</div>	  <!-- End row -->
 				</div>     <!-- End container -->
-			</section>	<!-- END CONTENT-1 -->	
+			</section>	<!-- END CONTENT-1 -->
 
 
 
@@ -285,18 +285,18 @@
 						</div>
 
 
-						<!-- TEXT BLOCK -->	
+						<!-- TEXT BLOCK -->
 						<div class="col-md-7 col-lg-6">
 							<div class="txt-block right-column pc-35 mb-40 wow fadeInLeft" data-wow-delay="0.4s">
 
-								<!-- Title -->	
+								<!-- Title -->
 								<h3 class="h3-sm">Three Reasons to choose us</h3>
 
 								<!-- Text -->
 								<p class="grey-color">Choosing Your Outright means partnering with a dedicated team that’s committed to driving your business forward with innovative, tailored, and reliable solutions.
 								</p>
 
-								<!-- Text List -->	
+								<!-- Text List -->
 								<ul class="txt-list grey-color">
 
 									<li class="list-item">
@@ -321,15 +321,15 @@
 										</p>
 									</li>
 
-								</ul>	<!-- End Text List -->	
+								</ul>	<!-- End Text List -->
 
 							</div>
-						</div>	<!-- END TEXT BLOCK -->	
+						</div>	<!-- END TEXT BLOCK -->
 
 
-					</div>	  <!-- End row -->	
+					</div>	  <!-- End row -->
 				</div>     <!-- End container -->
-			</section>	<!-- END CONTENT-2 -->	
+			</section>	<!-- END CONTENT-2 -->
 
 
 
@@ -340,8 +340,8 @@
 				<div class="container white-color">
 					<div class="row d-flex align-items-center">
 
-								
-						<!-- TEXT BLOCK -->		
+
+						<!-- TEXT BLOCK -->
 						<div class="col-md-7 col-lg-6">
 							<div class="txt-block left-column mb-40 wow fadeInRight" data-wow-delay="0.4s">
 
@@ -363,17 +363,17 @@
 
 								</p>
 
-								<!-- Small Title -->	
+								<!-- Small Title -->
 								<h5 class="h5-xs sm-title mt-30">3. Operational Efficiency and Management
 								</h5>
 
 								<!-- Text -->
 								<p>Tired of juggling multiple tools and processes? Our all-in-one business management solutions and streamlined e-commerce platform will simplify your operations, boost efficiency, and help you focus on what truly matters.
 
-								</p>	
+								</p>
 
-							</div>	
-						</div>	<!-- END TEXT BLOCK -->		
+							</div>
+						</div>	<!-- END TEXT BLOCK -->
 
 
 					</div>	  <!-- End row -->
@@ -400,11 +400,11 @@
 						<div class="row d-flex align-items-center m-row">
 
 
-							<!-- TEXT BLOCK -->	
+							<!-- TEXT BLOCK -->
 							<div class="col-md-7 col-lg-6 m-bottom">
 								<div class="txt-block left-column pc-35 mb-40 wow fadeInRight" data-wow-delay="0.4s">
 
-									<!-- Title -->	
+									<!-- Title -->
 									<h3 class="h3-sm">Take full advantage of powerful features</h3>
 
 									<!-- Text -->
@@ -412,10 +412,10 @@
 
 									</p>
 
-									<!-- Small Title -->	
+									<!-- Small Title -->
 									<h5 class="h5-xs sm-title">Features Never Stop</h5>
 
-									<!-- Text List -->	
+									<!-- Text List -->
 									<ul class="txt-list grey-color">
 
 										<li class="list-item">
@@ -432,10 +432,10 @@
 											</p>
 										</li>
 
-									</ul>	<!-- End Text List -->	
+									</ul>	<!-- End Text List -->
 
 								</div>
-							</div>	<!-- END TEXT BLOCK -->	
+							</div>	<!-- END TEXT BLOCK -->
 
 
 							<!-- IMAGE BLOCK -->
@@ -446,7 +446,7 @@
 							</div>
 
 
-						</div>	  <!-- End row -->	
+						</div>	  <!-- End row -->
 					</div>	<!-- END TOP CONTENT -->
 
 
@@ -463,11 +463,11 @@
 							</div>
 
 
-							<!-- TEXT BLOCK -->	
+							<!-- TEXT BLOCK -->
 							<div class="col-md-7 col-lg-6">
 								<div class="txt-block right-column pc-35 mb-40 wow fadeInLeft" data-wow-delay="0.4s">
 
-									<!-- Title -->	
+									<!-- Title -->
 									<h3 class="h3-sm">Get more productivity with less effort</h3>
 
 									<!-- Text -->
@@ -475,12 +475,12 @@
 
 									</p>
 
-									<!-- Option List -->	
-									<ul class="option-list primary-list mt-25"> 
+									<!-- Option List -->
+									<ul class="option-list primary-list mt-25">
 
-										<!-- List Item #1 -->	
-										<li class="list-box"> 
-											
+										<!-- List Item #1 -->
+										<li class="list-box">
+
 											<!-- Icon -->
 					 						<span><i class="fas fa-check"></i></span>
 
@@ -490,11 +490,11 @@
 
 								   		    	</p>
 								   			</div>
-									   	
+
 										</li>
 
-										<!-- List Item #2 -->	
-										<li class="list-box"> 
+										<!-- List Item #2 -->
+										<li class="list-box">
 
 											<!-- Icon -->
 					 						<span><i class="fas fa-check"></i></span>
@@ -506,10 +506,10 @@
 								   		    	</p>
 
 								   			</div>
-									   		
+
 										</li>
 
-										<!-- List Item #3 -->	
+										<!-- List Item #3 -->
 										<li class="list-box">
 
 											<!-- Icon -->
@@ -521,16 +521,16 @@
 
 								   		    	</p>
 								   			</div>
-									   		
+
 										</li>
 
-									</ul>	<!-- End Option List -->			
+									</ul>	<!-- End Option List -->
 
 								</div>
-							</div>	<!-- END TEXT BLOCK -->	
+							</div>	<!-- END TEXT BLOCK -->
 
 
-						</div>	  <!-- End row -->	
+						</div>	  <!-- End row -->
 			 		</div>	<!-- END BOTTOM CONTENT -->
 
 
@@ -546,22 +546,22 @@
 				<div class="container white-color">
 
 
-					<!-- SECTION TITLE -->	
-					<div class="row">	
+					<!-- SECTION TITLE -->
+					<div class="row">
 						<div class="col-lg-10 col-xl-8 offset-lg-1 offset-xl-2">
-							<div class="section-title mb-60">		
+							<div class="section-title mb-60">
 
-								<!-- Title 	-->	
+								<!-- Title 	-->
 								<h3 class="h3-md">Achieve Annual Performance Metrics with Our Solutions
 								</h3>
 
-								<!-- Text -->	
-								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero 
-								   tempus, blandit a cursus varius at magna tempor nullam tempor sapien gravida donec pretium ipsum 
-								   at porta justo integer odio velna vitae 
+								<!-- Text -->
+								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero
+								   tempus, blandit a cursus varius at magna tempor nullam tempor sapien gravida donec pretium ipsum
+								   at porta justo integer odio velna vitae
 								</p>
-									
-							</div>	
+
+							</div>
 						</div>
 					</div>
 
@@ -572,68 +572,68 @@
 
 
 								<!-- STATISTIC BLOCK #1 -->
-								<div class="col-sm-6 col-md-3">								
-									<div class="statistic-block">	
+								<div class="col-sm-6 col-md-3">
+									<div class="statistic-block">
 
 										<!-- Icon  -->
-										<div class="statistic-ico ico-50"><span class="flaticon-browser-8"></span></div> 					
-										<!-- Text -->	
+										<div class="statistic-ico ico-50"><span class="flaticon-browser-8"></span></div>
+										<!-- Text -->
 										<h5 class="statistic-number">5,<span class="count-element">500,000</span></h5>
-										<p>Revenue Increased</p>	
+										<p>Revenue Increased</p>
 
-									</div>								
+									</div>
 								</div>
 
 
 								<!-- STATISTIC BLOCK #2 -->
-								<div class="col-sm-6 col-md-3">										
-									<div class="statistic-block">	
+								<div class="col-sm-6 col-md-3">
+									<div class="statistic-block">
 
 										<!-- Icon  -->
-										<div class="statistic-ico ico-50"><span class="flaticon-chat-3"></span></div> 				
+										<div class="statistic-ico ico-50"><span class="flaticon-chat-3"></span></div>
 
-										<!-- Text -->									
-										<h5 class="statistic-number">4,<span class="count-element">500</span></h5>	
-										<p>Hours Saved</p>	
+										<!-- Text -->
+										<h5 class="statistic-number">4,<span class="count-element">500</span></h5>
+										<p>Hours Saved</p>
 
-									</div>							
+									</div>
 								</div>
 
 
 								<!-- STATISTIC BLOCK #3 -->
-								<div class="col-sm-6 col-md-3">							
+								<div class="col-sm-6 col-md-3">
 									<div class="statistic-block">
 
 										<!-- Icon  -->
-										<div class="statistic-ico ico-50"><span class="flaticon-users-1"></span></div> 				
+										<div class="statistic-ico ico-50"><span class="flaticon-users-1"></span></div>
 
-										<!-- Text -->									
+										<!-- Text -->
 										<h5 class="statistic-number">6,<span class="count-element">10,000</span></h5>
-										<p>New Leads Generated</p>	
+										<p>New Leads Generated</p>
 
-									</div>						
+									</div>
 								</div>
 
 
 								<!-- STATISTIC BLOCK #4 -->
-								<div class="col-sm-6 col-md-3">							
+								<div class="col-sm-6 col-md-3">
 									<div class="statistic-block">
 
 										<!-- Icon  -->
-										<div class="statistic-ico ico-50"><span class="flaticon-help"></span></div> 				
+										<div class="statistic-ico ico-50"><span class="flaticon-help"></span></div>
 
-										<!-- Text -->									
+										<!-- Text -->
 										<h5 class="statistic-number">1,<span class="count-element">100,000</span></h5>
-										<p>Financial Errors Reduced</p>	
+										<p>Financial Errors Reduced</p>
 
-									</div>						
+									</div>
 								</div>
-						
+
 
 							</div>
 						</div>
 					</div>	   <!-- End row -->
-				</div>	    <!-- End container -->		
+				</div>	    <!-- End container -->
 			</section>	 <!-- END STATISTIC-3 -->
 
 
@@ -645,33 +645,33 @@
 				<div class="container">
 
 
-					<!-- SECTION TITLE -->	
-					<div class="row">	
+					<!-- SECTION TITLE -->
+					<div class="row">
 						<div class="col-lg-10 offset-lg-1">
-							<div class="section-title text-center mb-40">		
+							<div class="section-title text-center mb-40">
 
-								<!-- Title 	-->	
+								<!-- Title 	-->
 								<h3 class="h3-md">The Powerful Outright Tools
 								</h3>
 
-								<!-- Text -->	
-								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero 
+								<!-- Text -->
+								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero
 								   tempus, blandit a cursus varius at magna tempor
 								</p>
-									
-							</div>	
+
+							</div>
 						</div>
 					</div>
 
 
-					<!-- TEXT BLOCK -->	
+					<!-- TEXT BLOCK -->
 					<div class="row">
 						<div class="col-md-12">
-							<div class="video-preview imac wow fadeInUp" data-wow-delay="0.4s">						
-								<a class="video-popup3" href="https://www.youtube.com/embed/0gv7OC9L2s8">  <!-- Change the link HERE!!! -->	
+							<div class="video-preview imac wow fadeInUp" data-wow-delay="0.4s">
+								<a class="video-popup3" href="https://www.youtube.com/embed/0gv7OC9L2s8">  <!-- Change the link HERE!!! -->
 
-									<!-- Play Icon --> 							
-									<div class="video-btn bg-orangered">	
+									<!-- Play Icon -->
+									<div class="video-btn bg-orangered">
 										<div class="video-block-wrapper"><i class="fas fa-play"></i></div>
 									</div>
 
@@ -680,8 +680,8 @@
 
 								</a>
 					 		</div>
-						</div>	
-					</div>	<!-- END TEXT BLOCK -->	
+						</div>
+					</div>	<!-- END TEXT BLOCK -->
 
 
 				</div>     <!-- End container -->
@@ -696,30 +696,30 @@
 				<div class="container">
 
 
-					<!-- SECTION TITLE -->	
-					<div class="row">	
+					<!-- SECTION TITLE -->
+					<div class="row">
 						<div class="col-lg-10 offset-lg-1">
-							<div class="section-title mb-50">		
+							<div class="section-title mb-50">
 
-								<!-- Title 	-->	
-								<h3 class="h3-md">What Customers Say About Treko</h3>	
+								<!-- Title 	-->
+								<h3 class="h3-md">What Customers Say About Treko</h3>
 
-								<!-- Text -->	
-								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero 
+								<!-- Text -->
+								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero
 								   tempus, blandit a cursus varius at magna tempor
 								</p>
-									
-							</div>	
+
+							</div>
 						</div>
 					</div>
 
 
 					<!-- TESTIMONIALS CONTENT -->
 					<div class="row">
-						<div class="col-md-12">					
+						<div class="col-md-12">
 							<div class="owl-carousel owl-theme reviews-wrapper">
 
-						
+
 								<!-- TESTIMONIAL #1 -->
 								<div class="review-3">
 
@@ -740,18 +740,18 @@
 
 										<!-- Text -->
 										<p>Etiam sapien sem at sagittis congue an augue massa varius egestas undo suscipit a magna
-										   tempus aliquet				   
+										   tempus aliquet
 										</p>
 
 										<!-- Testimonial Author -->
 										<h6 class="h6-xs">Scott Boxer</h6>
-										<span>Web Developer, Bradford</span>	
+										<span>Web Developer, Bradford</span>
 
-									</div>	
+									</div>
 
 								</div>	<!-- END TESTIMONIAL #1 -->
-						
-						
+
+
 								<!-- TESTIMONIAL #2 -->
 								<div class="review-3">
 
@@ -765,25 +765,25 @@
 									</div>
 
 									<!-- Title -->
-									<h6 class="h6-lg">Simple and Useful!</h6>	
+									<h6 class="h6-lg">Simple and Useful!</h6>
 
 									<!-- Testimonial Text -->
 									<div class="review-3-txt">
 
 										<!-- Text -->
-										<p>Etiam sapien sem at sagittis congue augue massa varius egestas magna suscipit magna tempus 
-										   aliquet porta rutrum sodales an auctor integer    
+										<p>Etiam sapien sem at sagittis congue augue massa varius egestas magna suscipit magna tempus
+										   aliquet porta rutrum sodales an auctor integer
 									  	</p>
 
 									  	<!-- Testimonial Author -->
 										<h6 class="h6-xs">Wendy T.</h6>
-										<span>Programmer, Chester</span>	
+										<span>Programmer, Chester</span>
 
-									</div>	
+									</div>
 
 								</div>	<!-- END TESTIMONIAL #2 -->
-						
-						
+
+
 								<!-- TESTIMONIAL #3 -->
 								<div class="review-3">
 
@@ -808,10 +808,10 @@
 										</p>
 
 										<!-- Testimonial Author -->
-										<h6 class="h6-xs">pebz13</h6>	
+										<h6 class="h6-xs">pebz13</h6>
 										<span>SEO Manager, Brisbane</span>
 
-									</div>	
+									</div>
 
 								</div>	<!-- END TESTIMONIAL #3 -->
 
@@ -841,13 +841,13 @@
 
 										<!-- Testimonial Author -->
 										<h6 class="h6-xs">Johnson Pereira</h6>
-										<span>UX/UI Designer, Broken Hill</span>	
+										<span>UX/UI Designer, Broken Hill</span>
 
-									</div>	
+									</div>
 
 								</div>	<!-- END TESTIMONIAL #4 -->
-								
-								
+
+
 								<!-- TESTIMONIAL #5 -->
 								<div class="review-3">
 
@@ -872,14 +872,14 @@
 										</p>
 
 										<!-- Testimonial Author -->
-										<h6 class="h6-xs">John Sweet</h6>	
+										<h6 class="h6-xs">John Sweet</h6>
 										<span>Web Developer, Brightin</span>
 
-									</div>	
+									</div>
 
 								</div>	<!-- END TESTIMONIAL #5 -->
-								
-								
+
+
 								<!-- TESTIMONIAL #6 -->
 								<div class="review-3">
 
@@ -905,13 +905,13 @@
 
 										<!-- Testimonial Author -->
 										<h6 class="h6-xs">Leslie D.</h6>
-										<span>Graphic Designer, San Francisco</span>	
+										<span>Graphic Designer, San Francisco</span>
 
-									</div>	
+									</div>
 
 								</div>	<!-- END TESTIMONIAL #6 -->
-								
-								
+
+
 								<!-- TESTIMONIAL #7 -->
 								<div class="review-3">
 
@@ -932,14 +932,14 @@
 
 										<!-- Text -->
 										<p>Augue egestas volutpat and egestas augue in cubilia laoreet magna undo suscipit luctus
-										   aliquet porta a rutrum gestas diam neque est gravida 	
+										   aliquet porta a rutrum gestas diam neque est gravida
 										</p>
 
 										<!-- Testimonial Author -->
-										<h6 class="h6-xs">Marisol19</h6>	
+										<h6 class="h6-xs">Marisol19</h6>
 										<span>Director of Operations, Phoenix</span>
 
-									</div>	
+									</div>
 
 								</div>	<!-- END TESTIMONIAL #7 -->
 
@@ -963,62 +963,62 @@
 									<div class="review-3-txt">
 
 										<!-- Text -->
-										<p>Aliquam augue suscipit luctus neque purus ipsum neque dolor primis and libero tempus a diam 
+										<p>Aliquam augue suscipit luctus neque purus ipsum neque dolor primis and libero tempus a diam
 										   blandit posuere varius magna egestas et augue
 										</p>
 
 										<!-- Testimonial Author -->
-										<h6 class="h6-xs">Gordon Wright</h6>	
+										<h6 class="h6-xs">Gordon Wright</h6>
 										<span>IT Manager, Dallas</span>
 
-									</div>	
+									</div>
 
 								</div>	<!-- END TESTIMONIAL #8 -->
 
-							
+
 							</div>
-						</div>									
-					</div>	<!-- END TESTIMONIALS CONTENT --> 
+						</div>
+					</div>	<!-- END TESTIMONIALS CONTENT -->
 
 
 				</div>     <!-- End container -->
 			</section>	<!-- END TESTIMONIALS-3 -->
-            
 
 
-		
+
+
 
 
 
 
 			<!-- FAQs-1
 			============================================= -->
-			<section id="faqs-1" class="faqs-1 wide-100 faqs-section division">				
+			<section id="faqs-1" class="faqs-1 wide-100 faqs-section division">
 				<div class="container">
 
 
-					<!-- SECTION TITLE -->	
-					<div class="row">	
+					<!-- SECTION TITLE -->
+					<div class="row">
 						<div class="col-lg-10 offset-lg-1">
-							<div class="section-title mb-60 text-center">		
+							<div class="section-title mb-60 text-center">
 
-								<!-- Title 	-->	
-								<h3 class="h3-md">Have Questions? Look Here.</h3>	
+								<!-- Title 	-->
+								<h3 class="h3-md">Have Questions? Look Here.</h3>
 
-								<!-- Text -->	
-								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero 
+								<!-- Text -->
+								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero
 								   tempus, blandit a cursus varius at magna tempor
 								</p>
-									
-							</div>	
+
+							</div>
 						</div>
 					</div>
 
 
-					<!-- FAQs-1 QUESTIONS -->	
+					<!-- FAQs-1 QUESTIONS -->
 					<div class="faqs-1-questions pc-15">
 						<div class="row">
-						
+
 
 							<!-- QUESTIONS WRAPPER -->
 							<div class="col-lg-6">
@@ -1032,28 +1032,28 @@
 										<h5 class="h5-xs"><span>1.</span> Getting started with Treko</h5>
 
 										<!-- Answer -->
-										<p class="p-md grey-color">Etiam amet mauris suscipit in odio. Integer congue undo metus. 
-										   Vitae arcu mollis blandit ultrice ligula egestas and magna suscipit lectus  magna suscipit 
-										   luctus blandit 
+										<p class="p-md grey-color">Etiam amet mauris suscipit in odio. Integer congue undo metus.
+										   Vitae arcu mollis blandit ultrice ligula egestas and magna suscipit lectus  magna suscipit
+										   luctus blandit
 										</p>
 
-									</div>	
+									</div>
 
 
-									<!-- QUESTION #2 -->					
+									<!-- QUESTION #2 -->
 									<div class="question">
 
 										<!-- Question -->
 										<h5 class="h5-xs"><span>2.</span> Do you have a free trial?</h5>
 
 										<!-- Answer -->
-										<p class="p-md grey-color">An enim nullam tempor sapien gravida donec ipsum enim an porta justo 
+										<p class="p-md grey-color">An enim nullam tempor sapien gravida donec ipsum enim an porta justo
 										   integer at velna vitae auctor integer congue undo magna at pretium purus pretium ligula
 										</p>
 
 									</div>
 
-											
+
 									<!-- QUESTION #3 -->
 									<div class="question">
 
@@ -1061,10 +1061,10 @@
 										<h5 class="h5-xs"><span>3.</span> How to sign up for a Treko account?</h5>
 
 										<!-- Answer -->
-										<p class="p-md grey-color">Feugiat eros, ac tincidunt ligula massa in faucibus luctus orci 
-										   ultrices posuere cubilia curae. Sagittis congue augue and egestas sapien justo aliquet  
+										<p class="p-md grey-color">Feugiat eros, ac tincidunt ligula massa in faucibus luctus orci
+										   ultrices posuere cubilia curae. Sagittis congue augue and egestas sapien justo aliquet
 										   egestas magna
-										</p>									
+										</p>
 
 									</div>
 
@@ -1086,28 +1086,28 @@
 
 										<!-- Answer -->
 										<p class="p-md grey-color">Cubilia laoreet augue egestas a luctus donec diam curabite vitae
-										   dapibus libero. Quisque tristique neque a blandit justo aliquam  molestie a nunc sapien 
+										   dapibus libero. Quisque tristique neque a blandit justo aliquam  molestie a nunc sapien
 										   justo, aliquet and molestie purus venenatis aliquam eget lacinia odio velna.
 										</p>
 
-									</div>	
+									</div>
 
-								
-									<!-- QUESTION #5 -->					
+
+									<!-- QUESTION #5 -->
 									<div class="question">
 
 										<!-- Question -->
 										<h5 class="h5-xs"><span>5.</span> I have an issue with my account</h5>
 
 										<!-- Answer -->
-										<p class="p-md grey-color">Praesent semper lacus sed cursus porta, feugiat primis luctus in 
-										   ligula eros ac ligula  massa in faucibus orci luctus ultrices posuere ante ipsum primis 
+										<p class="p-md grey-color">Praesent semper lacus sed cursus porta, feugiat primis luctus in
+										   ligula eros ac ligula  massa in faucibus orci luctus ultrices posuere ante ipsum primis
 										   in faucibus odio.
 										</p>
 
 									</div>
 
-										
+
 									<!-- QUESTION #6 -->
 									<div class="question">
 
@@ -1115,7 +1115,7 @@
 										<h5 class="h5-xs"><span>6.</span> Can I use Treko in my language?</h5>
 
 										<!-- Answer -->
-										<p class="p-md grey-color">Praesent semper, lacus sed cursus porta, feugiat faucibus primis 
+										<p class="p-md grey-color">Praesent semper, lacus sed cursus porta, feugiat faucibus primis
 										   orci luctus tincidunt ligula ultrice at sapien
 										</p>
 
@@ -1127,10 +1127,10 @@
 
 
 						</div>	<!-- End row -->
-					</div>	<!-- END FAQs-1 QUESTIONS -->	
+					</div>	<!-- END FAQs-1 QUESTIONS -->
 
 
-					<!-- MORE QUESTIONS BUTTON -->		
+					<!-- MORE QUESTIONS BUTTON -->
 					<div class="row">
 						<div class="col-md-12">
 							<div class="more-questions-btn text-center">
@@ -1157,7 +1157,7 @@
 						<div class="col-md-10 col-lg-8 offset-md-1 offset-lg-2">
 							<div class="cta-3-txt pc-35 text-center">
 
-								<!-- Title -->	
+								<!-- Title -->
 								<h3 class="h3-xs">Join over 20,000+ people who uses Treko every day</h3>
 
 								<!-- Text -->
@@ -1179,7 +1179,7 @@
 											</a>
 										</div>
 									</div>
-														
+
 									<!-- Brand Logo Image -->
 									<div class="col-sm-3">
 										<div class="brand-logo">
@@ -1188,7 +1188,7 @@
 											</a>
 										</div>
 									</div>
-														
+
 									<!-- Brand Logo Image -->
 									<div class="col-sm-3">
 										<div class="brand-logo">
@@ -1197,7 +1197,7 @@
 											</a>
 										</div>
 									</div>
-														
+
 									<!-- Brand Logo Image -->
 									<div class="col-sm-3">
 										<div class="brand-logo">
@@ -1206,7 +1206,7 @@
 											</a>
 										</div>
 									</div>
-												
+
 								</div>	<!-- End Brands WRAPPER -->
 
 							</div>
@@ -1214,7 +1214,7 @@
 
 
 					</div>	  <!-- End row -->
-				</div>	   <!-- End container -->	
+				</div>	   <!-- End container -->
 			</section>	<!-- END CALL TO ACTION-3 -->
 
 
@@ -1222,24 +1222,24 @@
 
 			<!-- BLOG-1
 			============================================= -->
-			<section id="blog-1" class="blog-1 wide-60 blog-section division">				
+			<section id="blog-1" class="blog-1 wide-60 blog-section division">
 				<div class="container">
 
 
-					<!-- SECTION TITLE -->	
-					<div class="row">	
+					<!-- SECTION TITLE -->
+					<div class="row">
 						<div class="col-lg-10 offset-lg-1">
-							<div class="section-title mb-60 text-center">		
+							<div class="section-title mb-60 text-center">
 
-								<!-- Title 	-->	
-								<h3 class="h3-md">Our Stories And Latest News</h3>	
+								<!-- Title 	-->
+								<h3 class="h3-md">Our Stories And Latest News</h3>
 
-								<!-- Text -->	
-								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero 
+								<!-- Text -->
+								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero
 								   tempus, blandit a cursus varius at magna tempor
 								</p>
-									
-							</div>	
+
+							</div>
 						</div>
 					</div>
 
@@ -1251,8 +1251,8 @@
 
 					 		<!-- BLOG POST #1 -->
 					 		<div id="b-post-1" class="col-md-6 col-lg-4">
-					 			<div class="blog-1-post mb-40 wow fadeInUp" data-wow-delay="0.4s">	
-				 			
+					 			<div class="blog-1-post mb-40 wow fadeInUp" data-wow-delay="0.4s">
+
 						 			<!-- POST IMAGE -->
 						 			<div class="blog-post-img">
 										<img class="img-fluid" src="images/blog/img-01.jpg" alt="blog-post-image" />
@@ -1262,7 +1262,7 @@
 									<div class="blog-post-txt">
 
 										<!-- Post Author -->
-										<p class="post-author grey-color">Gordon Wright - July 30 - 47 min read</p>	
+										<p class="post-author grey-color">Gordon Wright - July 30 - 47 min read</p>
 
 										<!-- Post Link -->
 										<h6 class="h6-lg">
@@ -1277,8 +1277,8 @@
 
 							<!-- BLOG POST #2 -->
 					 		<div id="b-post-2" class="col-md-6 col-lg-4">
-					 			<div class="blog-1-post mb-40 wow fadeInUp" data-wow-delay="0.6s">	
-				 			
+					 			<div class="blog-1-post mb-40 wow fadeInUp" data-wow-delay="0.6s">
+
 						 			<!-- POST IMAGE -->
 						 			<div class="blog-post-img">
 										<img class="img-fluid" src="images/blog/img-02.jpg" alt="blog-post-image" />
@@ -1288,7 +1288,7 @@
 									<div class="blog-post-txt">
 
 										<!-- Post Author -->
-										<p class="post-author grey-color">Leslie D. - July 20 - 12 min read</p>	
+										<p class="post-author grey-color">Leslie D. - July 20 - 12 min read</p>
 
 										<!-- Post Link -->
 										<h6 class="h6-lg">
@@ -1303,8 +1303,8 @@
 
 					 		<!-- BLOG POST #3 -->
 					 		<div id="b-post-3" class="col-md-6 col-lg-4">
-					 			<div class="blog-1-post mb-40 wow fadeInUp" data-wow-delay="0.8s">	
-				 			
+					 			<div class="blog-1-post mb-40 wow fadeInUp" data-wow-delay="0.8s">
+
 						 			<!-- POST IMAGE -->
 						 			<div class="blog-post-img">
 										<img class="img-fluid" src="images/blog/img-03.jpg" alt="blog-post-image" />
@@ -1314,7 +1314,7 @@
 									<div class="blog-post-txt">
 
 										<!-- Post Author -->
-										<p class="post-author grey-color">Wendy T. - Jun 27 - 8 min read</p>	
+										<p class="post-author grey-color">Wendy T. - Jun 27 - 8 min read</p>
 
 										<!-- Post Link -->
 										<h6 class="h6-lg">
@@ -1331,7 +1331,7 @@
 					</div>	<!-- END BLOG POSTS WRAPPER -->
 
 
-					<!-- MORE POSTS BUTTON -->		
+					<!-- MORE POSTS BUTTON -->
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<div class="more-posts mt-20 mb-40 wow fadeInUp" data-wow-delay="1s">
@@ -1341,7 +1341,7 @@
 					</div>
 
 
-				</div>	   <!-- End container -->		
+				</div>	   <!-- End container -->
 			</section>	<!-- END BLOG-1 -->
 
 
@@ -1353,20 +1353,20 @@
 				<div class="container">
 
 
-					<!-- SECTION TITLE -->	
-					<div class="row">	
+					<!-- SECTION TITLE -->
+					<div class="row">
 						<div class="col-lg-10 offset-lg-1">
-							<div class="section-title mb-60 text-center">		
+							<div class="section-title mb-60 text-center">
 
-								<!-- Title 	-->	
-								<h3 class="h3-md">Have Questions or Need Help?</h3>	
+								<!-- Title 	-->
+								<h3 class="h3-md">Have Questions or Need Help?</h3>
 
-								<!-- Text -->	
-								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero 
+								<!-- Text -->
+								<p class="p-lg">Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor primis libero
 								   tempus, blandit a cursus varius at magna tempor
 								</p>
-									
-							</div>	
+
+							</div>
 						</div>
 					</div>
 
@@ -1376,21 +1376,21 @@
 			            <div class="col-md-10 col-xl-8 offset-md-1 offset-xl-2">
 				            <div class="form-wrapper">
 				                <form name="contactform" class="row contact-form">
-				                                            
+
 					                <!-- Form Input -->
 					                <div class="col-lg-6">
-					                	<input type="text" name="name" class="form-control name" placeholder="Your Name*"> 
+					                	<input type="text" name="name" class="form-control name" placeholder="Your Name*">
 					                </div>
-					                  
-					                <!-- Form Input -->        
+
+					                <!-- Form Input -->
 					                <div class="col-lg-6">
-					                	<input type="email" name="email" class="form-control email" placeholder="Email Address*"> 
+					                	<input type="email" name="email" class="form-control email" placeholder="Email Address*">
 					                </div>
-					                            
+
 					                <!-- Form Select -->
 					                <div class="col-md-12">
 					                    <select id="inlineFormCustomSelect1" name="subject" class="custom-select subject">
-					                        <option>This question is about...</option>  
+					                        <option>This question is about...</option>
 					                      	<option>Registering/Authorising</option>
 					                      	<option>Using Treko</option>
 					                      	<option>Troubleshooting</option>
@@ -1398,28 +1398,28 @@
 					                      	<option>Other</option>
 					                    </select>
 					                </div>
-					                  
-					                <!-- Form Textarea -->	        
+
+					                <!-- Form Textarea -->
 					                <div class="col-md-12">
 					                	<textarea name="message" class="form-control message" rows="6" placeholder="Your Message ..."></textarea>
-					                </div> 
-					                                            
-					                <!-- Form Button -->
-					                <div class="col-md-12 mt-5 text-right">  
-					                	<button type="submit" class="btn btn-md btn-primary tra-primary-hover submit">Send Message</button> 
 					                </div>
-					                                                              
+
+					                <!-- Form Button -->
+					                <div class="col-md-12 mt-5 text-right">
+					                	<button type="submit" class="btn btn-md btn-primary tra-primary-hover submit">Send Message</button>
+					                </div>
+
 					                <!-- Form Message -->
 					                <div class="col-md-12 contact-form-msg text-center">
 					                	<div class="sending-msg"><span class="loading"></span></div>
-					                </div>  
-				                                              
-				                </form> 
-				            </div>    
-			            </div>  
-			        </div>     <!-- END CONTACT FORM -->	
+					                </div>
+
+				                </form>
+				            </div>
+			            </div>
+			        </div>     <!-- END CONTACT FORM -->
 
 
-				</div>	   <!-- End container -->		
+				</div>	   <!-- End container -->
 			</section>	<!-- END CONTACTS-2 -->
             @endsection
